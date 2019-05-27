@@ -1,5 +1,1 @@
-1. 支持基本ner模型 91
-2. 自持替换多种模型
-3. 支持cpg
-4. 支持加载多种数据
-5. 支持ELMO和BERT
+The code of "Cross-Domain NER using Cross-Domain Language Modeling" for acl2019
